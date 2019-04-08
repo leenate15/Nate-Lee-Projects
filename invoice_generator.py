@@ -1,16 +1,6 @@
 # THIS PROGRAM WAS WRITTEN TO GENERATE A PDF INVOICE FOR SERVICES, ETC.
 
-# from reportlab.lib.pagesizes import letter # US Letter size (default is A4)
-# from reportlab.pdfgen import canvas
 
-# width, height = letter
-
-
-
-# invoice = canvas.Canvas("sample.pdf")
-
-# invoice.drawString(0, 0, "Mary had a little lamb.")
-# invoice.save()
 
 ############################################### CLASSES ###############################################
 
