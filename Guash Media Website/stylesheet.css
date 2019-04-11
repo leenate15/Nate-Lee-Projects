@@ -1,8 +1,9 @@
 body {
-  background-color: lightblue;
+  background-color: #ffffff;
 }
 
 h1 {
+  font-family: verdana
   color: white;
   text-align: center;
 }
