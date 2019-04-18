@@ -11,5 +11,5 @@ pic_nums = [3142,3143,3144,3156,3159,3163,3164,3169,3170,3178,3185,3193,\
 
 for num in pic_nums:
 	pic_name = "DSC0" + str(num) + ".jpg" # Use the number to generate the file name
-	shutil.copyfile("C:/Users/Nate/Desktop/Business/Guash/Photos/Fusion Jogger Night Shoot 1 - 04172019/"+pic_name,\
-	"C:/Users/Nate/Desktop/Business/Guash/Photos/Fusion Jogger Night Shoot 1 - 04172019/Good Pics/"+pic_name)
+	shutil.copyfile("Path/to/source/"+pic_name,\
+	"Path/to/dest/"+pic_name)
